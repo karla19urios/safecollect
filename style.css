@@ -1,0 +1,91 @@
+*{
+    background-image:url("https://lh3.googleusercontent.com/d/1Xt-NMVaixBbeRAkEHchOF0BWBqsbAjF1");
+    margin:10px;
+    padding:0px;
+    color:white;  
+    font-family:'Franklin Gothic Medium', 'Narrow', Arial, sans-serif;
+    
+
+    }
+  
+    .btn {
+        display: block;
+        background-color: #7ec02c;
+        padding: 5px 10px;
+        color:white ;
+        font-size: 20px;
+    }
+    
+  .top {
+    padding:0px;
+    font-size: 70px;
+    text-align: center;
+  }
+  
+ 
+  .about{
+    border:#7ec02c solid 20px;
+    background-color: white;
+    border-radius:20px;
+    font-size: 23px;
+      
+  }
+  .logo{
+    margin-bottom: 0px;
+  }
+  
+  .current-project{
+    margin-right:40px;
+    font-size: 23px;
+  }
+  
+  .images{
+    border:#7ec02c solid 20px;
+    background-color: white;
+    border-radius:20px;
+    padding:50px 30px;
+
+     }
+    .photo-gallery{ 
+    font-size: 23px;
+  }
+  
+  .mission{
+    text-align:left;
+    font-size: 23px;
+
+  }
+  
+  .goals{
+    text-align:left;
+    font-size: 23px;
+ }
+
+ .locations{
+    font-size: 23px;
+
+ }
+ 
+ .join-us{
+    font-size: 23px;
+ }
+
+ .safe-collect{
+    font-size: 23px;
+ }
+
+    @media(max-width:600px){
+
+        .top{
+            padding: 40px 20px;
+        }
+        
+        body {
+            padding:30px;
+         }
+        main{
+            padding:50px 30px;
+
+
+        }
+          }
